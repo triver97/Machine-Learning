@@ -1,2 +1,2 @@
 # Machine-Learning
-Compilation of machine learning theory and projects
+Compilation of machine learning concepts and projects
