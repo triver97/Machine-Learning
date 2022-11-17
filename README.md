@@ -2,5 +2,5 @@
 Compilation of machine learning concepts
 
 ## Table of contents
-Linear Regression 
+- Linear Regression 
 
